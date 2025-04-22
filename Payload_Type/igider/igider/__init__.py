@@ -43,7 +43,7 @@ class igiderAgent(PayloadType):
     wrapped_payloads = []
     agent_path = Path("igider")
     agent_code_path = Path("igider") / "agent_code"
-    agent_icon_path = Path("igider") / "icon.png" 
+    agent_icon_path = Path("igider") / "icon.svg" 
     note = "A stealthy Python-based Mythic agent with evasion capabilities"
     supports_dynamic_loading = True
     build_parameters = [

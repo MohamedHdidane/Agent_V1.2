@@ -1,0 +1,8 @@
+{
+  "username": "mythic_user",
+  "password": "mLjrXF2IKJxQvZZMwUK8avcnmjveUR",
+  "host": "mythic_rabbitmq",
+  "port": 5672,
+  "virtual_host": "mythic_vhost",
+  "ssl": false
+}
